@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 21 09:39:14 CST 2025","Thu Aug 21 09:39:14 CST 2025","10","case","test_xdgp","TestXDGP","","","test_04",""
+"passed","Thu Aug 21 09:39:14 CST 2025","Thu Aug 21 09:39:14 CST 2025","7","case","test_xdgp","TestXDGP","","","test_01",""
+"passed","Thu Aug 21 09:39:14 CST 2025","Thu Aug 21 09:39:14 CST 2025","7","case","test_xdgp","TestXDGP","","","test_02",""
+"passed","Thu Aug 21 09:39:14 CST 2025","Thu Aug 21 09:39:14 CST 2025","5","case","test_xdgp","TestXDGP","","","test_03",""
